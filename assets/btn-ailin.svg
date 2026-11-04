@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="49" viewBox="0 0 143 49" shape-rendering="crispEdges" role="img"><title>AILIN.CZ</title>
+<style>
+@font-face{font-family:'CB Pixel';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAALwABAAAAAABiAAAAKWAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbggwcKgZgP1NUQVQuAGwRCAqCeII2ATYCJAMkCxQABCAFagcgDAcbsgRArgZsYzrYoTQEQQOG1TYeiC53+788Yq6HXi0e/tuv3Tezu8Cfj1toHJKGROJ0IiFaE2saSZGSCFGlQl3/2X7vucCfqSUxh4nxpp7XTEuQ6Jp+S0vOw/P37tz7h/2KE4zDQDeP6WnCEbfFI+31lxxquf4HqIXtMXbecH1yONvPX44/3bMbwKfLdW4bE+9olUmCARW2QbKxSeITjARjyealxFebdGlj9vePnAA1gIQQC4RAJUwKNimubITDuWd2HA4E0CZAnPT0OKxAgCAwVhgbGYgTATIfQSIQjnACYeVfYOW3wMpzST8Btq1oWVL5XIcYTjCxQoiVZxog/JYpHolPgYxAJULUbWBexwDQyKXY0kC65wrOrXniZ9EXxUPIf5Z/BHgwR1Y3/0/yLYJBAPHNO+ZwhFghMITAFHYZGJwlIOEgRcQ16Q4SyGAIR2CI0AoGOOGYIAnyFChTqZos8I6h/eGmwoQFun2g0tYHwRowADrBNtgH0ACQUFsFMeh0q+2GxkQRL1EQflZR411UNZspVRh0E/x6Eijqoii5ksomi4isWRqI3WRoSi6NSqJcJUIBUct5KHaW2UZxfaekVMZ0+nazcWpxOmwdrmS9lDgoUpmV8lGbd8aJxVV7tn1ol7jeUldK++rNq/b+oH60nrVQhgbDk01tO268GMuGxERb4sUPqs3pqCX1/Zxqv+uB0/GW8h7jjb4fwP4VAQKeVweOa39WOX/C06wLAB99zcssn6k77QFaGCDgvfjpgYOsGQgbXVizznVkDog9eSXTeHzg3hoCXbwwQNBdDRk4qrsQH2CaceDDCKhFWYF8vVpDFmmjhhiWBGnQY9yMetqAOaN6TGuhDRkwaBYHaL8R7t/G/9nqdQA=) format('woff2');}
+.px{font-family:'CB Pixel',monospace} .mono{font-family:'CB Mono',ui-monospace,monospace}
+
+</style>
+<rect x="5" y="5" width="138" height="44" fill="#2f7099"/><rect x="0" y="0" width="138" height="44" fill="#7fd4f5"/><rect x="0" y="0" width="138" height="4" fill="#bfe9ff"/><text x="22" y="29" class="px" font-size="18" font-weight="400" fill="#06121c" letter-spacing="0.16em" >AILIN.CZ</text>
+</svg>

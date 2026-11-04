@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="173" height="49" viewBox="0 0 173 49" shape-rendering="crispEdges" role="img"><title>COLDBIT.CZ</title>
+<style>
+@font-face{font-family:'CB Pixel';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAMgABAAAAAABsQAAALHAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgjQcKgZgP1NUQVQuAGwRCAqDaIMGATYCJAMsCxgABCAFagcgDAcbMgUAngU5GX1qDpy0yzzJosn8bIRKzsOTXf+dW12DxiewjIR5S0QOIUUbQYw2SUD3/c/thqdtEbFK43Wy298Hvw3V0GiBqJqXyWRCpwH+02G36a8zt6Fr6h/94T9Y1CIBZ4+6qACJ1kjQteBoOooEmQ+bbA08Epq5gxpS9U3jDn2NZZrq7xZoAEkIfSFQmWu1tNcdTAJ7TnncBVaG9i8QZ+OwCzoEQpb0JZXNwmgZ2XRzzbVYyLKOnr6Q2m+F1H4s9NpvJZfIuMUj+noAtD8AaD+qJBeEdPZVA+2SpU3q0L6RxEMPFd4Tzupcszu66IECBaHclYUOMDzfwntD9fsAkNPGuEWH9Fq6DjfY48R7VvtbIwg258sHgLuZjinu+f9LivtiFgLinXTGTMVLXjNjBaZKF0n1MQNJgRQRt5BeAwkFxioExsqOAkYbqZDMtNxePkERSaSNcY3d99A7e7WXe7Fne0JwxwnRtkYg1GA8GtyBBwAZkIQkLETByP7Ypt/IR/PIiflwpirqGKZWqVVOGhZV1NFgyWjSsLAJ+3SGWVWnSuWIOuqiimqfUDRMlWrzEp06881r2BK3pmgOV1eqiLbKDQJGYxiPaCisfaV2V32MIA8GxgG9DkXpfegY7mTNYy+cvH20Cxeftu6+0n3hNMoUOF0+ZUAINQxZ2Obk1Wr1MWTl1VOE4wBNp9LjUG3yZMeptu5AREqWsskGbSnzYz39IIK1nK6JJGolFtwHR/OPdjHf7YKg2yL8Y92BeLP1VEQAXHy/QPDFkivmHc9t/U1XFF/CRzPOdcIXIx+aZWv7axqWLgLQlUDwAz3pdQa0bYTQWGs0d0o6EFwajjv6ZtnpXbxvq0Bt4g5t6qZsvULkUpiMZ5LhJssFjYX2wH7eQRrmUFuDaMHuUGVdI3FIMtFWNpSBGiR1Y0qg3VjNlb4U7ZXLNwI=) format('woff2');}
+.px{font-family:'CB Pixel',monospace} .mono{font-family:'CB Mono',ui-monospace,monospace}
+
+</style>
+<rect x="5" y="5" width="168" height="44" fill="#2f7099"/><rect x="0" y="0" width="168" height="44" fill="#7fd4f5"/><rect x="0" y="0" width="168" height="4" fill="#bfe9ff"/><text x="22" y="29" class="px" font-size="18" font-weight="400" fill="#06121c" letter-spacing="0.16em" >COLDBIT.CZ</text>
+</svg>
